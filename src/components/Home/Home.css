@@ -1,0 +1,8 @@
+body {
+  background: url("https://i.ibb.co/JB1y0X5/4690.jpg"),
+    linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+  background-blend-mode: overlay;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
